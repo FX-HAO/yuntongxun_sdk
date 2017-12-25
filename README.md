@@ -1,6 +1,7 @@
 # YuntongxunSdk
 
 [![Gem Version](https://badge.fury.io/rb/yuntongxun_sdk.svg)](https://badge.fury.io/rb/yuntongxun_sdk)
+[![Build Status](https://travis-ci.org/FX-HAO/yuntongxun_sdk.svg?branch=master)](https://travis-ci.org/FX-HAO/yuntongxun_sdk)
 
 YuntongxunSdk is a [云通讯](http://www.yuntongxun.com/doc.html) library for Ruby.
 
