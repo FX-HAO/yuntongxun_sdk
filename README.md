@@ -2,7 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/yuntongxun_sdk.svg)](https://badge.fury.io/rb/yuntongxun_sdk)
 
-YuntongxunSdk is a [Yuntongxun](http://www.yuntongxun.com/doc.html) library for Ruby.
+YuntongxunSdk is a [云通讯](http://www.yuntongxun.com/doc.html) library for Ruby.
 
 ## Installation
 
