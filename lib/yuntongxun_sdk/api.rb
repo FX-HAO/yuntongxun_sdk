@@ -35,7 +35,7 @@ module YuntongxunSdk
         appId: @app_id
       }.merge(args)
 
-      batch = DateTime.now.strftime("%Y%m%d%H%M%S")
+      batch = DateTime.now.in_time_zone("Beijing").strftime("%Y%m%d%H%M%S")
       signature = "#{@account_sid}#{@auth_token}#{batch}"
       sig = Digest::MD5.hexdigest(signature).upcase
 
